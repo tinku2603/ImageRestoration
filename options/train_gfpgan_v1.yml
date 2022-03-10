@@ -160,6 +160,7 @@ train:
       'conv3_4': 1
       'conv4_4': 1
       'conv5_4': 1
+      'conv6_4': 1
     vgg_type: vgg19
     use_input_norm: true
     perceptual_weight: !!float 1
